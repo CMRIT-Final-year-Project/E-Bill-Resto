@@ -43,4 +43,7 @@ On Windows using PowerShell: path\to\venv\Scripts\Activate.ps1
 Next, run:-
 ```
 pip install -r /path/to/requirements.txt
+
+python manage.py runserver
 ```
+    
