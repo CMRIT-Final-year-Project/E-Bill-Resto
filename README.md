@@ -1,5 +1,7 @@
-![Farmers Market Finder Demo](media/EBillResto.gif)
+![E Bill Resto App](media/EBillResto.gif)
+
 <p align="center">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
@@ -9,6 +11,7 @@
 </p>
 
 # 📌 Introduction
+
 A Web-based Restaurant Billing System App which uses a master-slave architecture to retrieve transactions made in branch companies to parent companies in real-time using a REST API.
 
 # Get Started
@@ -20,7 +23,9 @@ A Web-based Restaurant Billing System App which uses a master-slave architecture
 ```
 python -m venv /path/to/directory
 ```
+
 Example:-
+
 ```
 python -m venv venv (It will create a folder named venv in your project's root directory)
 ```
@@ -42,6 +47,7 @@ On Windows using PowerShell: path\to\venv\Scripts\Activate.ps1
 ```
 
 Next, run:-
+
 ```
 pip install -r /path/to/requirements.txt
 ```
