@@ -51,11 +51,4 @@ urlpatterns = [
     path("GenerateBillingForm/", slaves.GenerateBillingForm, name="GenerateBillingForm"),
     path("BillDataStored/", slaves.BillDataStored, name="BillDataStored"),
     path("ViewBranchBills/", slaves.ViewBranchBills, name="ViewBranchBills"),
-
-
-
-
-
-
-
 ]
